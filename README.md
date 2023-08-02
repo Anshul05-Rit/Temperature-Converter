@@ -1,1 +1,1 @@
-# Temperature-Converter
+A temperature converter is a simple web application that allows users to convert temperatures between different units, such as Celsius, Fahrenheit, and Kelvin. In this case, we will create a temperature converter using HTML, CSS, and JavaScript to provide a user-friendly interface for temperature conversion.
